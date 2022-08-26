@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Priyobrato Banik</h1>
 
 <h3 align="center">I'm a curious backend developer with a specialization in JAVA, a self-motivated, dedicated, and upbeat person with a keen interest in learning technology.</h3>
-<img align="right" alt="coding" width="400" src ="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="coding" width="400" src ="https://media4.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif?cid=ecf05e47q25rpf5x42y27d3tm0a53x2jmlru0qj6rpqh1a9y&rid=giphy.gif&ct=g">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priyobratobanik&label=Profile%20views&color=0e75b6&style=flat" alt="priyobratobanik" /> </p>

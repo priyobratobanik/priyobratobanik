@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm Priyobrato Banik</h1>
+<h1 align="center">Hi,Everyone 👋, I'm Priyobrato Banik</h1>
 
-<h3 align="center">I'm a curious backend developer with a specialization in JAVA, a self-motivated, dedicated, and upbeat person with a keen interest in learning technology.</h3>
+<h3 align="center">I'm a curious backend developer with a specialization in JAVA, a self-motivated, Pro-active, and upbeat person with a keen interest in learning technology.</h3>
 <img align="right" alt="coding" width="400" src ="https://media4.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif?cid=ecf05e47q25rpf5x42y27d3tm0a53x2jmlru0qj6rpqh1a9y&rid=giphy.gif&ct=g">
 
 
@@ -12,15 +12,15 @@
 
 - 🌱 I’m currently learning **Java spring boot**
 
-- 👨‍💻 All of my projects are available at [https://priyobratobanik.dev.voyage](https://priyobratobanik.dev.voyage)
+- 👨‍💻 All of my projects are available at https://priyobrato-banik.netlify.app/
 
 - 💬 Ask me about **java,spring boot**
 
 - 📫 How to reach me **connectwithpriyo@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/12HfY6ieWeD9KlWw16VKQSIh-fcti5ebb/view?usp=sharing](https://drive.google.com/file/d/12HfY6ieWeD9KlWw16VKQSIh-fcti5ebb/view?usp=sharing)
+- 📄 Know about my experiences https://drive.google.com/file/d/1Fs1QbnX5Iyc8_FG5RvHHMg3BzbiK5Uie/view?usp=sharing
 
-- ⚡ Fun fact **I think i am funny and energetic**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

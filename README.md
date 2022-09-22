@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **connectwithpriyo@gmail.com**
 
-- 📄 Know about my experiences [Portfolio](https://drive.google.com/file/d/1Fs1QbnX5Iyc8_FG5RvHHMg3BzbiK5Uie/view?usp=sharing)
+- 📄 Know about my [experiences](https://drive.google.com/file/d/1Fs1QbnX5Iyc8_FG5RvHHMg3BzbiK5Uie/view?usp=sharing)
 
 
 

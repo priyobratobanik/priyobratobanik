@@ -1,6 +1,6 @@
 <h1 align="center">Hello 👋, I'm Priyobrato Banik</h1>
 
-<h3 align="center">I'm a curious backend developer with a specialization in JAVA, a self-motivated, Pro-active, and upbeat person with a keen interest in learning technology.</h3>
+<h3 align="center">A curious backend developer with a specialization in JAVA, a self-motivated, Pro-active, and upbeat person with a keen interest in learning technology.</h3>
 <img align="right" alt="coding" width="400" src ="https://media4.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif?cid=ecf05e47q25rpf5x42y27d3tm0a53x2jmlru0qj6rpqh1a9y&rid=giphy.gif&ct=g">
 
 

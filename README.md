@@ -16,6 +16,8 @@
 
 - 📫 How to reach me **connectwithpriyo@gmail.com**
 
+- 📄 Know about my [Resume]( https://drive.google.com/uc?export=download&id=1ZGI-C6kgqf1hw0i52bGKQkmuiiR-QFT1)
+
 - 📄 Know about my [experiences](https://drive.google.com/file/d/1Fs1QbnX5Iyc8_FG5RvHHMg3BzbiK5Uie/view?usp=sharing)
 
 

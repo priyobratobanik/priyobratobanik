@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **Java spring boot**
 
-- 👨‍💻 All of my projects are available at [Portfolio](https://priyobrato-banik.netlify.app/)
+- 👨‍💻 All of my projects are available at [portfolio](https://priyobrato-banik.netlify.app/)
 
 - 📫 How to reach me **connectwithpriyo@gmail.com**
 

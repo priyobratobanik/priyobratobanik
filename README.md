@@ -12,6 +12,8 @@
 
 - 🌱 I’m currently learning **Java spring boot**
 
+- 👨‍💻 Connect with me through [Linkedin](https://www.linkedin.com/in/priyobrato-banik/)
+
 - 👨‍💻 All of my projects are available at [portfolio](https://priyobrato-banik.netlify.app/)
 
 - 📫 How to reach me **connectwithpriyo@gmail.com**
